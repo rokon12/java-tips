@@ -1,5 +1,6 @@
 package com.bazlur.tips;
 
+import javax.swing.*;
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.ForkJoinPool;
@@ -8,6 +9,9 @@ import java.util.concurrent.TimeUnit;
 public class Main {
 
     public static void main(String[] args) throws InterruptedException {
+
+        JOptionPane.showMessageDialog(null, "Hello world", "Display Message", JOptionPane.INFORMATION_MESSAGE);
+
 
 
         Integer i1 = 127;

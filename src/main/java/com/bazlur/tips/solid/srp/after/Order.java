@@ -15,6 +15,8 @@ public abstract class Order {
 
     public void checkout() {
         //log do all sort of work here
+
+        System.out.println("Checking out..");
     }
 
 }
