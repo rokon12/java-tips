@@ -1,4 +1,4 @@
-package com.bazlur.tips.before;
+package com.bazlur.tips.solid.ocp.after;
 
 
 public class Multiplier extends CalculateBase {
@@ -9,6 +9,6 @@ public class Multiplier extends CalculateBase {
     @Override
     public void calculate() {
         double value = getLeftVal() * getRightVal();
-        setResult(value);;
+        setResult(value);
     }
 }

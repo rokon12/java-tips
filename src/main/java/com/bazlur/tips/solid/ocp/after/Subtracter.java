@@ -1,4 +1,4 @@
-package com.bazlur.tips.after;
+package com.bazlur.tips.solid.ocp.after;
 
 /**
  * Created by Jim on 10/10/2015.

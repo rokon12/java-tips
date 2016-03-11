@@ -1,4 +1,4 @@
-package com.bazlur.tips.before;
+package com.bazlur.tips.solid.ocp.before;
 
 public class Adder extends CalculateBase {
     public Adder(){}

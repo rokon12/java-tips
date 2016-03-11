@@ -1,4 +1,4 @@
-package com.bazlur.tips.before;
+package com.bazlur.tips.solid.ocp.after;
 
 
 public abstract class CalculateBase {

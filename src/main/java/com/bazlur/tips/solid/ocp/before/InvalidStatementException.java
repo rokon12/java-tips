@@ -1,4 +1,4 @@
-package com.bazlur.tips.after;
+package com.bazlur.tips.solid.ocp.before;
 
 
 public class InvalidStatementException extends Exception {
@@ -9,4 +9,5 @@ public class InvalidStatementException extends Exception {
     public InvalidStatementException(String reason, String statement, Throwable cause) {
         super(reason + ": " + statement, cause);
     }
+
 }
